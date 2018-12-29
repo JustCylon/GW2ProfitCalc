@@ -1,0 +1,10 @@
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\bin\Debug\GW2ProfitCalc.exe.config
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\bin\Debug\GW2ProfitCalc.exe
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\bin\Debug\GW2ProfitCalc.pdb
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.csprojResolveAssemblyReference.cache
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.Properties.Resources.resources
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.csproj.GenerateResource.cache
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.csproj.CoreCompileInputs.cache
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.exe
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.pdb
+C:\Users\Cylon\source\repos\GW2ProfitCalc\GW2ProfitCalc\obj\Debug\GW2ProfitCalc.GWProfitCalc.resources
